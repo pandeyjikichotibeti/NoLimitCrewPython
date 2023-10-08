@@ -7,7 +7,7 @@ Welcome to a collection of fundamental Python programming challenges! These exer
 
 ## Basic Concepts
 
-### 1. Factorial
+1. Factorial
 Find and display the factorial of a given number.
 
 ### 2. Even or Odd
